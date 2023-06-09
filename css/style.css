@@ -1,0 +1,241 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.heading1 {
+  text-align: center;
+  font-family: "Roboto";
+  font-size: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+  color: #000;
+  padding: 94px 474px 0px;
+  display: block;
+}
+.paragraph1 {
+  color: #000;
+  font-style: normal;
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 30px;
+  font-weight: 400;
+  padding: 28px 328px 0px;
+}
+.pic {
+  padding: 90px;
+}
+.button1 {
+  border: 5px solid #6f2cff;
+  border-radius: 30px;
+  display: inline-block;
+  background-color: #6f2cff;
+}
+#product {
+  color: white;
+  font-size: 15px;
+  padding: 11px 45px 14px;
+  font-weight: 400;
+  line-height: 15px;
+  font-style: normal;
+  text-decoration-line: none;
+}
+.demo {
+  border: 5px solid #fff;
+  border-radius: 30px;
+  display: inline-block;
+  background-color: #fff;
+  text-decoration-line: none;
+  color: #6f2cff;
+  /* font-size: 15px; */
+  padding: 11px 45px 14px;
+  margin: 0px 0px 100px 11px;
+  /* font-weight: 400; */
+  /* line-height: 15px;
+  font-style: normal; */
+  box-shadow: 0px 0px 0px;
+}
+.img1 {
+  margin: 75px 0px 0px 0px;
+  display: block;
+}
+.image1 {
+  display: inline-block;
+}
+.uimg1 {
+  margin: 0px;
+  padding: 25px 90px 25px 90px;
+  background-color: rgba(192, 192, 192, 0.5);
+  display: block;
+}
+.uimg11 {
+  margin: 0px;
+  padding: 25px 90px 25px 90px;
+  background-color: rgba(192, 192, 192, 0.5);
+  display: block;
+}
+.uimg111 {
+  margin: 0px;
+  padding: 5px 90px 25px 90px;
+  background-color: rgba(192, 192, 192, 0.5);
+  display: block;
+}
+.oc {
+  box-shadow: 0px 2px 4px rgba(192, 192, 192, 0.5);
+  border-radius: 0px 0px 7px 7px;
+  display: inline-block;
+  padding-right: 0px;
+}
+.oco {
+  box-shadow: 0px 2px 4px rgba(192, 192, 192, 0.5);
+  border-radius: 0px 0px 7px 7px;
+  display: inline-block;
+}
+.ococ {
+  box-shadow: 0px 2px 4px rgba(192, 192, 192, 0.5);
+  border-radius: 0px 0px 7px 7px;
+  display: inline-block;
+}
+.uimg2 {
+  padding: 0px 31px 60px;
+  background-color: rgba(192, 192, 192, 0.5);
+  display: inline-block;
+  color: #6f2cff;
+}
+.uimg22 {
+  padding: 0px 82px 60px;
+  background-color: rgba(192, 192, 192, 0.5);
+  display: inline-block;
+  color: #6f2cff;
+}
+.uimg222 {
+  padding: 0px 81px 60px;
+  background-color: rgba(192, 192, 192, 0.5);
+  display: block;
+  color: #6f2cff;
+}
+.second {
+  display: inline;
+}
+.ja {
+  display: inline-block;
+  padding-right: 40px;
+}
+.bottom {
+  width: 100%;
+  border: 5px solid #f5f5f5;
+  background-color: #f5f5f5;
+  margin-top: 105px;
+}
+.industry {
+  margin: 65px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 45px;
+  /* identical to box height, or 112% */
+
+  text-align: center;
+
+  color: #000000;
+}
+.paragraph2 {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  /* identical to box height, or 167% */
+
+  text-align: center;
+
+  color: #000000;
+}
+.first {
+  border: 5px solid #17002e;
+  /* color: white; */
+  background-color: #17002e;
+  border-radius: 8px 10px 10px 8px;
+  display: inline-block;
+  margin-top: 50px;
+}
+.koko {
+  text-align: left;
+  display: inline-block;
+  padding-left: 0%;
+  margin-right: 0px;
+}
+.para {
+  display: inline-block;
+  color: #fff;
+
+  padding-top: -20px;
+  margin-left: 30px;
+  margin-bottom: 40px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+}
+#paragraph {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 22px;
+  /* or 147% */
+
+  color: #f5f5f5;
+  padding: 31px 53px;
+}
+.second {
+  border: 5px solid #17002e;
+  /* color: white; */
+  background-color: #17002e;
+  border-radius: 8px 10px 10px 8px;
+  display: inline-block;
+  margin-left: 32px;
+}
+.line {
+  border: 1px solid white;
+  margin-top: -30px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  width: 80%;
+}
+.line {
+  border: 1px solid white;
+  margin-top: -30px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  width: 80%;
+}
+.frame {
+  display: inline-block;
+}
+.para2 {
+  display: inline-block;
+
+  color: #fff;
+
+  padding-top: 0px;
+  margin-left: 30px;
+  padding-bottom: 40px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+  padding-right: 15px;
+}
+.rasm {
+  display: inline-block;
+  /* background-color: white; */
+  margin-left: 1px;
+  margin-right: 20px;
+}
